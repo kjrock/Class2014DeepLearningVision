@@ -1,0 +1,4 @@
+https://youtu.be/MFAKWK9pr1M
+
+pip install tensorflow==2.7
+pip install protobuf==3.20
